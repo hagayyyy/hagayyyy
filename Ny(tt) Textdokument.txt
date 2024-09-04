@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Om Mig</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <h1>Ditt Namn</h1>
+            <ul>
+                <li><a href="#about">Om mig</a></li>
+                <li><a href="#contact">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about" class="about-section">
+        <h2>Välkommen!</h2>
+        <p>Jag heter [Ditt Namn], och jag är en [yrke eller passion]. Jag älskar att [kort beskrivning av intresse eller specialitet].</p>
+    </section>
+
+    <section id="contact" class="contact-section">
+        <h2>Kontakt</h2>
+        <p>Har du frågor eller vill du komma i kontakt? Tveka inte att höra av dig!</p>
+        <ul>
+            <li>Email: <a href="mailto:din-email@exempel.com">din-email@exempel.com</a></li>
+            <li>LinkedIn: <a href="https://linkedin.com/in/dittnamn" target="_blank">linkedin.com/in/dittnamn</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2024 Ditt Namn</p>
+    </footer>
+</body>
+</html>
